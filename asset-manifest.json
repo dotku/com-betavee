@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/com-betavee/static/css/main.1714bf41.css",
-    "main.js": "/com-betavee/static/js/main.2a9225f8.js",
+    "main.js": "/com-betavee/static/js/main.50102dec.js",
     "static/js/787.67af7a07.chunk.js": "/com-betavee/static/js/787.67af7a07.chunk.js",
     "index.html": "/com-betavee/index.html",
     "main.1714bf41.css.map": "/com-betavee/static/css/main.1714bf41.css.map",
-    "main.2a9225f8.js.map": "/com-betavee/static/js/main.2a9225f8.js.map",
+    "main.50102dec.js.map": "/com-betavee/static/js/main.50102dec.js.map",
     "787.67af7a07.chunk.js.map": "/com-betavee/static/js/787.67af7a07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1714bf41.css",
-    "static/js/main.2a9225f8.js"
+    "static/js/main.50102dec.js"
   ]
 }
